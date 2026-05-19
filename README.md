@@ -1,4 +1,4 @@
-# 📘 superstore-sql-business-case-study
+# 📘 Superstore-sql-business-case-study
 
 Advanced SQL business analysis project focused on revenue growth, profitability risks, customer concentration, operational efficiency, and data integrity using the Superstore dataset.
 
